@@ -1,0 +1,47 @@
+#topo{
+    flex-direction: row;
+    position: relative;
+    background-color: #4E4E4E;
+    height: 43px;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+#icon{
+    margin-left: 8px;
+}
+#nomeloja{
+    position: absolute;
+    top: 10px;
+    margin-left: 95px;
+    color: rgb(255, 255, 255);
+}
+#data{
+    position: absolute;
+    top: 2px;
+    margin-left: 495px;
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+   
+}
+
+#dia{
+    position: absolute;
+    top: 23px;
+    margin-left: 495px;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+}
+#bemvindo{
+    position: absolute;
+    top: 2px;
+    margin-left: 580px;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    
+}
+#sair{
+    position: absolute;
+    margin-left: 720px;
+    top: 2px;
+}

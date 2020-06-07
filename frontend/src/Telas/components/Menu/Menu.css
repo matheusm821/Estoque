@@ -1,0 +1,40 @@
+#menu  {
+    padding:0px;
+    margin:0px;
+    background-color:rgb(70, 175, 145);
+    list-style:none;
+}
+
+#menu a { display: inline; }
+
+#menu a {
+    
+    padding: 7px 25px;
+    display: inline-block;
+
+    /* visual do link */
+   
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  
+}
+
+#menu a:hover {
+    background-color:rgb(141, 199, 64);
+
+}
+#client{
+    position: absolute;
+    top: 52px;
+    margin-left: 9px;
+}
+
+
+
+#produtos{
+    background: #7AB32E;
+}
+
+#clientes{
+    background: #7AB32E;
+}
